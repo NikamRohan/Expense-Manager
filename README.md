@@ -13,12 +13,14 @@ A Terminal Based Manager Developed Using C that helps to Track Daily Expenses.
 
    `cd Expense-Manager`
 
-3. **Run the Terminal App(In case of Linux).**
+3. **Compile the Terminal App(In case of Linux).**
 
    `gcc -g3 ds1.c -o ds1`
+
+4. **Then Run it**
    `./ds1`
 
-4. **Now the Terminal App will be up and Running you could explore its Features.**
+5. **Now the Terminal App will be up and Running you could explore its Features.**
 
 
 ## Screenshots Of Terminal App
